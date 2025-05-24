@@ -31,8 +31,20 @@ To write a Python program that:
 ---
 
 ## Program
-Add Code Here
-
+```
+  queue = []
+  queue.append('a')
+  queue.append('b')
+  queue.append('c')
+  print('Queue after elements are inserted:')
+  print(queue)
+  print('Deleting the first element inserted:')
+  print(queue.pop(0))
+  print('Queue after the first elements is deleted:')
+  print(queue)
+```
 ## Output
+![446617779-fb45b2c2-2364-43d6-8863-ecd4f082f597](https://github.com/user-attachments/assets/3dd01bc1-e5f3-4812-912a-588270089584)
 
 ## Result
+Thus, the program has been execueted successfully.
